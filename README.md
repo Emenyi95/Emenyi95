@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emenyi Nelly
 - 👀 I’m interested in Data Science and machine learning
-- 🌱 I’m currently acquiring skills in front end mobile development using FreeCodeCamp, w3schools and Udacity while perfecting my Data Science skilss using resources from Data Camp and Udacity
+- 🌱 I’m currently acquiring skills in front end mobile development using FreeCodeCamp, w3schools and Udacity while perfecting my Data Analytics skilss using resources from Data Camp and Udacity
 - 💞️ I’m looking to work and collaborate on projects related to Data science and machine learning
 - 📫 How to reach me- email: nellynkafu@gmail.com, twitter: @nellyemenyi
 
